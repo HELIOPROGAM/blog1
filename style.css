@@ -1,0 +1,36 @@
+.Filmes_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.Filmes_head i
+{
+float: right;
+}
+.Filmes_text span
+{
+color: orange;
+}
+.livros
+{
+    margin-bottom: 30px;
+}
+
+#contato iframe
+{
+    width: 100%;
+}
+
+body{
+    background-color: rgba(100, 100, 251, 0.664);
+    text-align: center;
+}
+
+.livros{
+    margin-bottom: 10px;
+}
+#contato iframe{
+    width: 100%
+}
